@@ -1,4 +1,4 @@
-# Savings Squads 🏆
+# Savings Squads by AlphaQuery 🏆
 
 > **Social group savings challenges — save together, win together.**
 
