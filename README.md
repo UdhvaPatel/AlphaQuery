@@ -127,16 +127,6 @@ Contribution: id, squad_id, member_id, member_name, amount, message, created_at
 Reaction:     contribution_id, emoji, count
 ```
 
----
-
-## Hackathon Demo Flow
-
-1. Open the app at http://localhost:5173
-2. Create a squad: "Bali Trip Fund" | $5,000 goal | 30-day deadline
-3. Open a second browser tab → Join Squad with the invite code
-4. Log contributions from both tabs — watch the leaderboard update live
-5. Add emoji reactions to contributions
-6. Contribute enough to hit 100% — confetti celebration fires!
 
 ---
 
@@ -149,4 +139,4 @@ Reaction:     contribution_id, emoji, count
 
 ---
 
-*Made with ❤️ for the Zolve Hackathon by the AlphaQuery team*
+*Made for the INFORMS x Zolve Hackathon by the AlphaQuery team*
