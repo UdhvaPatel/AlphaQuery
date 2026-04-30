@@ -2,7 +2,7 @@
 
 > **Social group savings challenges — save together, win together.**
 
-Built for the **Zolve Fintech Hackathon** to solve the engagement crisis in financial apps through gamification and social accountability.
+Built for the **INFORMS x Zolve Hackathon** to solve the engagement crisis in financial apps through gamification and social accountability.
 
 ---
 
