@@ -1,0 +1,97 @@
+{
+  "squads": {
+    "dffc4aff-3024-4a92-813e-e7e15ea70611": {
+      "id": "dffc4aff-3024-4a92-813e-e7e15ea70611",
+      "name": "Bali Trip Fund",
+      "goal_description": "Sun, surf, and savings! Let's make this happen.",
+      "target_amount": 2000,
+      "current_amount": 1221,
+      "deadline": "2026-05-30",
+      "invite_code": "XT62HQ",
+      "created_at": "2026-04-30T03:41:04.783Z",
+      "goal_achieved": 0
+    }
+  },
+  "members": {
+    "f0d6edf4-c642-4aa4-8e94-b300d175a143": {
+      "id": "f0d6edf4-c642-4aa4-8e94-b300d175a143",
+      "squad_id": "dffc4aff-3024-4a92-813e-e7e15ea70611",
+      "name": "Alex Chen",
+      "color": "#7C3AED",
+      "joined_at": "2026-04-30T03:41:04.789Z"
+    },
+    "5cb024fd-eec3-4158-b713-12cb35c48cc1": {
+      "id": "5cb024fd-eec3-4158-b713-12cb35c48cc1",
+      "squad_id": "dffc4aff-3024-4a92-813e-e7e15ea70611",
+      "name": "Sarah Kim",
+      "color": "#0D9488",
+      "joined_at": "2026-04-30T03:41:04.791Z"
+    },
+    "b1da4162-eecc-44fc-8195-c8a49cd982db": {
+      "id": "b1da4162-eecc-44fc-8195-c8a49cd982db",
+      "squad_id": "dffc4aff-3024-4a92-813e-e7e15ea70611",
+      "name": "Jordan Lee",
+      "color": "#DC2626",
+      "joined_at": "2026-04-30T03:41:04.794Z"
+    },
+    "37d25437-49b6-4994-acbe-dc934f08fd77": {
+      "id": "37d25437-49b6-4994-acbe-dc934f08fd77",
+      "squad_id": "dffc4aff-3024-4a92-813e-e7e15ea70611",
+      "name": "Maya Patel",
+      "color": "#D97706",
+      "joined_at": "2026-04-30T03:41:04.796Z"
+    },
+    "6508fdc6-37f1-438e-9087-4c106f1ec5f9": {
+      "id": "6508fdc6-37f1-438e-9087-4c106f1ec5f9",
+      "squad_id": "dffc4aff-3024-4a92-813e-e7e15ea70611",
+      "name": "Udhva",
+      "color": "#059669",
+      "joined_at": "2026-04-30T05:09:25.723Z"
+    }
+  },
+  "contributions": {
+    "814a6604-28b4-4e6f-9660-d0c3b3b1ed60": {
+      "id": "814a6604-28b4-4e6f-9660-d0c3b3b1ed60",
+      "squad_id": "af30ea0b-896a-4496-a3ff-9965df890971",
+      "member_id": "12cdb6d7-7e3f-4eb8-8872-5180838afff9",
+      "member_name": "a",
+      "amount": 1000,
+      "message": null,
+      "created_at": "2026-04-30T05:08:29.875Z"
+    },
+    "12298810-afed-4bf7-8616-9abd655a4e6c": {
+      "id": "12298810-afed-4bf7-8616-9abd655a4e6c",
+      "squad_id": "dffc4aff-3024-4a92-813e-e7e15ea70611",
+      "member_id": "6508fdc6-37f1-438e-9087-4c106f1ec5f9",
+      "member_name": "Udhva",
+      "amount": 100,
+      "message": null,
+      "created_at": "2026-04-30T05:14:46.987Z"
+    },
+    "bd76e520-cb9e-42c2-a4b6-33a34d93dfb8": {
+      "id": "bd76e520-cb9e-42c2-a4b6-33a34d93dfb8",
+      "squad_id": "dffc4aff-3024-4a92-813e-e7e15ea70611",
+      "member_id": "6508fdc6-37f1-438e-9087-4c106f1ec5f9",
+      "member_name": "Udhva",
+      "amount": 121,
+      "message": "Yup Bois",
+      "created_at": "2026-04-30T05:15:06.349Z"
+    },
+    "3d6b66e9-1ff7-42fe-8c16-bfa560c96ee1": {
+      "id": "3d6b66e9-1ff7-42fe-8c16-bfa560c96ee1",
+      "squad_id": "dffc4aff-3024-4a92-813e-e7e15ea70611",
+      "member_id": "6508fdc6-37f1-438e-9087-4c106f1ec5f9",
+      "member_name": "Udhva",
+      "amount": 1000,
+      "message": "My Part of Hotel is done",
+      "created_at": "2026-04-30T05:15:57.804Z"
+    }
+  },
+  "reactions": {
+    "bd76e520-cb9e-42c2-a4b6-33a34d93dfb8__🎉": {
+      "contribution_id": "bd76e520-cb9e-42c2-a4b6-33a34d93dfb8",
+      "emoji": "🎉",
+      "count": 7
+    }
+  }
+}
